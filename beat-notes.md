@@ -7,7 +7,7 @@
 
 ## Who I am
 
-*One or two sentences about your role and where you work. The agent uses this for register and framing.*
+I am a journalist working at TradeWinds, the leading newspaper covering the international ocean shipping industry. I write about tankers, car carriers, sanctions, legal issues, geopolitics and maritime security for an audience including shipowners, ship brokers, investors, insurers, lawyers and others, including those who work at classification societies and ship managers.
 
 **Example:**
 I'm a health policy reporter at a UK national paper. I write for a general audience but my readers expect more than press-release rewrites — they want to understand what a policy change means for them.
@@ -16,7 +16,13 @@ I'm a health policy reporter at a UK national paper. I write for a general audie
 
 ## My beat
 
-*What you cover, in your own words. Be specific — "health" is too broad; "NHS workforce, primary care reform, and pharma pricing" is the level of detail that helps.*
+- Freight markets for tankers and car carriers
+- Asset values for both shiptypes
+- Sales of secondhand tankers and car carriers and deals to build new ones
+- The dark fleet
+- Piracy and other sorts of attacks on ships
+- Threats to the international shipping
+- Legal disputes involving shipping companies, including ship arrests
 
 **Example:**
 - NHS England policy and operations (workforce, waiting lists, primary care reform)
@@ -28,7 +34,9 @@ I'm a health policy reporter at a UK national paper. I write for a general audie
 
 ## What's hot right now
 
-*The 3–5 stories or threads you're actively tracking this month. Update this every couple of weeks. This is the highest-signal section.*
+1. The all-time high tanker freight market - Crude tanker rates are setting records and product tanker rates have rallied
+2. The shifting dynamics of the global tanker fleet - State-backed companies and traders building their fleets, also the ongoing issues with the dark fleet
+3. The rise of Chinese automobile exports - China's surging car exports are keeping the car carrier market strong
 
 **Example:**
 1. **GP contract negotiations 2026** — talks broke down in March. Watching for return-to-table signals from BMA or DHSC.
@@ -41,7 +49,13 @@ I'm a health policy reporter at a UK national paper. I write for a general audie
 
 ## What I'm always interested in
 
-*Standing themes that are not story-specific but always worth flagging. Think: "if anything happens with X, I want to know."*
+- Information on national oil companies and oil majors regarding market conditions (production, demand and supply figures)
+- Reports from the IEA, EIA and OPEC
+- Papers or reports from think tankers or academic journals on shipping economics or maritime security
+- Information on Chinese automobile exports and potential protectionist moves to curb those exports
+- Anything involving senior figures like John Fredriksen, Tor Olav Troim, Andreas Sohmen-Pao, Kjell Inge Rokke, Evangelos Marinakis, George Procopiou, Ga-Hyun Chung and Maria Angelicoussis, including from non-English language sources
+- Anything on threats to the shipping industry from state and non-state actors
+- Legal filings involving shipping companies
 
 **Example:**
 - New peer-reviewed research that contradicts current NHS policy
@@ -54,7 +68,10 @@ I'm a health policy reporter at a UK national paper. I write for a general audie
 
 ## What I'm not interested in
 
-*Be specific about what to filter out. The agent will cut these without asking.*
+- Press releases from shipping companies
+- Fishing industry news
+- Information on shipping tech start-ups or ship supply companies
+- Stock-pikcking stories from places like Seeking Alpha
 
 **Example:**
 - Routine NHS press releases without policy substance
@@ -67,7 +84,7 @@ I'm a health policy reporter at a UK national paper. I write for a general audie
 
 ## How I think about my readers
 
-*A sentence or two that helps the agent calibrate what's worth surfacing.*
+My readers come from all over the shipping industry and often are extremely knowledgeable on the industry, sectors and companies I am writing about.
 
 **Example:**
 My readers are educated generalists who read the paper for reliable analysis. They don't need basic explanations of how the NHS works. They do need clear framing of why a development matters and what it changes. They are sceptical of hype.
