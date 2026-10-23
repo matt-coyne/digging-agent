@@ -8,7 +8,19 @@
 
 ## Tier 1 — Trusted
 
-*Sources you treat as reliable on first read. The agent can cite them without strong caveats. Specialist publications, peer-reviewed journals, named beat reporters whose work you respect, primary sources (government data, official reports).*
+Mainstream News Outlets
+- Wall Street Journal
+- Financial Times
+- Reuters
+- Bloomberg
+- BBC
+- Straits Times
+- South China Morning Post
+
+Primary Sources
+- US Energy Information Administration
+- International Energy Agency
+- Organization of Petroleum Exporting Countries
 
 **Example:**
 
